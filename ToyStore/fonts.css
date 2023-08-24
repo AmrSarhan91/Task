@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('chrome-extension://__MSG_@@extension_id__/fonts/Inter/Inter-Light.woff2?v=3.19') format('woff2'),
+      url('chrome-extension://__MSG_@@extension_id__/fonts/Inter/Inter-Light.woff?v=3.19') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('chrome-extension://__MSG_@@extension_id__/fonts/Inter/Inter-Regular.woff2?v=3.19') format('woff2'),
+      url('chrome-extension://__MSG_@@extension_id__/fonts/Inter/Inter-Regular.woff?v=3.19') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('chrome-extension://__MSG_@@extension_id__/fonts/Inter/Inter-Medium.woff2?v=3.19') format('woff2'),
+      url('chrome-extension://__MSG_@@extension_id__/fonts/Inter/Inter-Medium.woff?v=3.19') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('chrome-extension://__MSG_@@extension_id__/fonts/Inter/Inter-SemiBold.woff2?v=3.19') format('woff2'),
+      url('chrome-extension://__MSG_@@extension_id__/fonts/Inter/Inter-SemiBold.woff?v=3.19') format('woff');
+  }
+  
